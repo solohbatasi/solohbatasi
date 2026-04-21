@@ -59,11 +59,13 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/?user=solohbatasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=solohbatasi&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=solohbatasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=solohbatasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=solohbatasi&theme=shadow_blue&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=solohbatasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css,scss&size_weight=0.3&count_weight=0.7&langs_count=8)
 
 ---
 
