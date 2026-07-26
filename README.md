@@ -85,4 +85,4 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 ---
 
 ###  Philosophy
-> “Engineering intelligent solutions that connect people, data, and systems seamlessly.”
+> “Engineering intelligent solutions that connect people, data, and systems seamlessly and securely.”
