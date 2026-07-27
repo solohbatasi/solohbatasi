@@ -58,7 +58,49 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 -  **API Design** — Secure RESTful endpoints with JWT Auth and real-time updates  
 
 ---
+### 📊 Language Analytics
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=solohbatasi&theme=shadow_blue&hide_border=false&layout=donut&langs_count=8&hide=html,css,scss&size_weight=0.5&count_weight=0.5&custom_title=Languages%20by%20Code%20and%20Projects"
+    alt="Top Languages by Code and Projects"
+    height="300"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solohbatasi&theme=github_dark&exclude=html,css,scss"
+    alt="Repositories per Language"
+    height="200"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solohbatasi&theme=github_dark&exclude=html,css,scss"
+    alt="Most Used Languages by Commit"
+    height="200"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Language statistics are calculated from my public, non-forked GitHub repositories.
+  </sub>
+</p>
+
+### 📊 Development Language Breakdown
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=solohbatasi&theme=shadow_blue&hide_border=false&layout=compact&langs_count=10&hide=html,css,scss&size_weight=0.5&count_weight=0.5&card_width=450&custom_title=Primary%20Development%20Languages"
+    alt="Primary Development Languages"
+    height="200"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solohbatasi&theme=github_dark&exclude=html,css,scss"
+    alt="Languages by Commit Activity"
+    height="200"
+  />
+</p>
 ### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=solohbatasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
