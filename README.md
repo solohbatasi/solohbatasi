@@ -58,56 +58,32 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 -  **API Design** — Secure RESTful endpoints with JWT Auth and real-time updates  
 
 ---
-### 📊 Language Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=solohbatasi&theme=shadow_blue&hide_border=false&layout=donut&langs_count=8&hide=html,css,scss&size_weight=0.5&count_weight=0.5&custom_title=Languages%20by%20Code%20and%20Projects"
-    alt="Top Languages by Code and Projects"
-    height="300"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solohbatasi&theme=github_dark&exclude=html,css,scss"
-    alt="Repositories per Language"
-    height="200"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solohbatasi&theme=github_dark&exclude=html,css,scss"
-    alt="Most Used Languages by Commit"
-    height="200"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    Language statistics are calculated from my public, non-forked GitHub repositories.
-  </sub>
-</p>
-
-### 📊 Development Language Breakdown
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=solohbatasi&theme=shadow_blue&hide_border=false&layout=compact&langs_count=10&hide=html,css,scss&size_weight=0.5&count_weight=0.5&card_width=450&custom_title=Primary%20Development%20Languages"
-    alt="Primary Development Languages"
-    height="200"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solohbatasi&theme=github_dark&exclude=html,css,scss"
-    alt="Languages by Commit Activity"
-    height="200"
-  />
-</p>
 ### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=solohbatasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=solohbatasi&theme=shadow_blue&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=solohbatasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css,scss&size_weight=0.3&count_weight=0.7&langs_count=8)
+### 📊 Language Analytics
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    width="49%"
+    alt="Repositories per Language"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    width="49%"
+    alt="Most Used Languages by Commit"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Repository language distribution and commit-based language activity.
+  </sub>
+</p>
 
 ---
 
@@ -128,3 +104,26 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 ###  Philosophy
 > “Engineering intelligent solutions that connect people, data, and systems seamlessly and securely.”
+
+## GitHub Profile Card Setup
+
+The repository owner must create the `SUMMARY_GITHUB_TOKEN` Actions secret manually:
+
+1. Open the profile repository on GitHub.
+2. Go to `Settings`.
+3. Open `Secrets and variables`.
+4. Select `Actions`.
+5. Click `New repository secret`.
+6. Enter `SUMMARY_GITHUB_TOKEN` as the secret name.
+7. Paste a GitHub Personal Access Token as the value.
+8. Save the secret.
+9. Open the repository's `Actions` tab.
+10. Select `Generate Profile Language Cards`.
+11. Click `Run workflow`.
+
+The token must not be committed to Git, placed in this README, or written directly inside the workflow file.
+
+After a successful workflow run, generated cards are stored under `profile-summary-card-output/github_dark/`. Expected SVG files include:
+
+- `1-repos-per-language.svg`
+- `2-most-commit-language.svg`
