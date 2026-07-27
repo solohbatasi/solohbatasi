@@ -105,25 +105,3 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 ###  Philosophy
 > “Engineering intelligent solutions that connect people, data, and systems seamlessly and securely.”
 
-## GitHub Profile Card Setup
-
-The repository owner must create the `SUMMARY_GITHUB_TOKEN` Actions secret manually:
-
-1. Open the profile repository on GitHub.
-2. Go to `Settings`.
-3. Open `Secrets and variables`.
-4. Select `Actions`.
-5. Click `New repository secret`.
-6. Enter `SUMMARY_GITHUB_TOKEN` as the secret name.
-7. Paste a GitHub Personal Access Token as the value.
-8. Save the secret.
-9. Open the repository's `Actions` tab.
-10. Select `Generate Profile Language Cards`.
-11. Click `Run workflow`.
-
-The token must not be committed to Git, placed in this README, or written directly inside the workflow file.
-
-After a successful workflow run, generated cards are stored under `profile-summary-card-output/github_dark/`. Expected SVG files include:
-
-- `1-repos-per-language.svg`
-- `2-most-commit-language.svg`
