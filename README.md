@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=solohbatasi&color=blue)
 ---
 
- Welcome to my Second GitHub Account!  
+
 I’m a **full-stack software engineer** passionate about building **intelligent, high-performance systems** that combine **AI, automation, and modern web technologies**.
 
 ###  Core Specialties
