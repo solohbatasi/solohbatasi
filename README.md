@@ -44,41 +44,34 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 -  **API Design** — Secure RESTful endpoints with JWT Auth and real-time updates  
 
 ---
-### GitHub Stats
+### GitHub Stats & Contribution Snapshot
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=solohbatasi&amp;theme=shadow_blue&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solohbatasi&amp;theme=github_dark"
     width="49%"
     alt="GitHub Stats"
   />
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=solohbatasi&amp;theme=shadow_blue&amp;hide_border=false"
+    src="https://streak-stats.demolab.com?user=solohbatasi&amp;theme=github-dark-blue&amp;hide_border=true"
     width="49%"
     alt="GitHub Contribution Streak"
   />
 </p>
 
-### Contribution Snapshot
-
 <p align="center">
   <img
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    width="49%"
-    alt="GitHub Stats Summary"
-  />
-  <img
-    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-    width="49%"
-    alt="Commit Activity by Time"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solohbatasi&amp;theme=github_dark"
+    width="98%"
+    alt="Contribution Summary"
   />
 </p>
 
 <p align="center">
   <img
-    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    width="98%"
-    alt="Contribution Summary"
+    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+    width="49%"
+    alt="Commit Activity by Time"
   />
 </p>
 
