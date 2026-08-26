@@ -53,9 +53,9 @@ I’m a **full-stack software engineer** passionate about building **intelligent
     alt="GitHub Stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=solohbatasi&amp;theme=github-dark-blue&amp;hide_border=true"
+    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
     width="49%"
-    alt="GitHub Contribution Streak"
+    alt="Commit Activity by Time"
   />
 </p>
 
@@ -69,9 +69,9 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 <p align="center">
   <img
-    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-    width="49%"
-    alt="Commit Activity by Time"
+    src="https://streak-stats.demolab.com?user=solohbatasi&amp;theme=github-dark-blue&amp;hide_border=true"
+    width="60%"
+    alt="Current and Longest GitHub Contribution Streaks"
   />
 </p>
 
