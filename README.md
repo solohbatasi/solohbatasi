@@ -25,28 +25,14 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 ---
 
-###  Tech Stack
+### Languages and Tools
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=laravel,php,js,ts,vue,react,nextjs,tailwind,vite,nodejs,python,mysql,postgres,mongodb,docker,git,linux,electron&perline=9"
+    alt="Languages and tools: Laravel, PHP, JavaScript, TypeScript, Vue, React, Next.js, Tailwind CSS, Vite, Node.js, Python, MySQL, PostgreSQL, MongoDB, Docker, Git, Linux, and Electron"
+  />
+</p>
 
 ---
 
@@ -64,7 +50,30 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 ![](https://nirzak-streak-stats.vercel.app/?user=solohbatasi&theme=shadow_blue&hide_border=false)
 
-###  Language Analytics
+### Contribution Snapshot
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    width="49%"
+    alt="GitHub Stats Summary"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+    width="49%"
+    alt="Commit Activity by Time"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    width="98%"
+    alt="Contribution Summary"
+  />
+</p>
+
+### Language Analytics
 
 <p align="center">
   <img
