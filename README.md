@@ -64,7 +64,7 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 ![](https://nirzak-streak-stats.vercel.app/?user=solohbatasi&theme=shadow_blue&hide_border=false)
 
-### 📊 Language Analytics
+###  Language Analytics
 
 <p align="center">
   <img
