@@ -27,3 +27,20 @@ jobs:
           EXCLUDE: "html,css,scss"
           AUTO_PUSH: true
           THEME: github_dark
+
+      - name: Generate contribution streak card
+        run: |
+          mkdir -p profile-summary-card-output/github_dark
+          curl --fail --location --retry 3 --retry-delay 5 \
+            "https://streak-stats.demolab.com/?user=solohbatasi&theme=github-dark-blue&hide_border=true&card_width=800" \
+            --output profile-summary-card-output/github_dark/5-contribution-streak.svg
+
+      - name: Commit contribution streak card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/github_dark/5-contribution-streak.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Generate contribution streak card"
+            git push origin main
+          fi
