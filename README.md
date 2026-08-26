@@ -36,14 +36,6 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 ---
 
-###  Featured Work
-
--  **AI Agents & Integrations** — Automating data insights, categorization, and analytics  
--  **System Automation Tools** — Streamlining operations through Artisan commands & Node bridges  
--  **Modern Web Apps** — Building dynamic, reactive experiences with Laravel + Vue + Inertia  
--  **API Design** — Secure RESTful endpoints with JWT Auth and real-time updates  
-
----
 ### GitHub Stats & Contribution Snapshot
 
 <p align="center">
