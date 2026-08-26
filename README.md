@@ -69,8 +69,8 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=solohbatasi&amp;theme=github-dark-blue&amp;hide_border=true"
-    width="60%"
+    src="https://streak-stats.demolab.com/?user=solohbatasi&amp;theme=github-dark-blue&amp;hide_border=true&amp;card_width=800&amp;v=2"
+    width="98%"
     alt="Current and Longest GitHub Contribution Streaks"
   />
 </p>
