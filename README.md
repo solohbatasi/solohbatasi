@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2600&amp;pause=5000&amp;color=00FF9C&amp;background=000000&amp;multiline=true&amp;width=1000&amp;height=110&amp;lines=solohbatasi%40github%3A~%24+whoami;Engineer+bAtasi"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2600&amp;pause=5000&amp;color=00FF9C&amp;background=000000&amp;multiline=true&amp;width=1000&amp;height=160&amp;lines=solohbatasi%40github%3A~%24+whoami;I%E2%80%99m+a+full-stack+software+engineer;passionate+about+building+intelligent%2C+high-performance+systems;that+combine+AI%2C+automation%2C+and+modern+web+technologies."
     width="98%"
     alt="Engineer bAtasi — Full-Stack Engineer, AI Integrator and Automation Engineer"
   />
