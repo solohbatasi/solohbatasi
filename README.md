@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2600&amp;pause=1000&amp;color=39D353&amp;background=0D1117&amp;center=false&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=760&amp;height=70&amp;lines=solohbatasi%40github%3A~%24%20whoami;%3E%20Full-Stack%20Software%20Engineer;solohbatasi%40github%3A~%24%20specialties;%3E%20AI%20Integrator%20%7C%20Automation%20Engineer;solohbatasi%40github%3A~%24%20about;%3E%20Building%20intelligent%2C%20high-performance%20systems.;solohbatasi%40github%3A~%24%20focus;%3E%20AI%20%E2%80%A2%20Automation%20%E2%80%A2%20Modern%20Web%20Technologies"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2600&amp;pause=5000&amp;color=00FF9C&amp;background=000000&amp;multiline=true&amp;width=1000&amp;height=110&amp;lines=solohbatasi%40github%3A~%24+whoami;Engineer+bAtasi"
     width="98%"
     alt="Engineer bAtasi — Full-Stack Engineer, AI Integrator and Automation Engineer"
   />
