@@ -17,18 +17,6 @@
 </p>
 
 ---
-
-###  Core Specialties
-
-- **Backend:** Laravel, PHP, REST APIs, Artisan automation, event broadcasting  
-- **Frontend:** Vue.js (Inertia.js), React (Vite), TailwindCSS, Composition API  
-- **AI & Automation:** Intelligent data agents, categorization, analytics, decision support  
-- **System Integration:** Node.js bridges, Electron apps, local & network-based services  
-- **Databases:** MySQL, SQLite, MongoDB, PostgreSQL, query optimization, schema design  
-- **Dev Tools & Workflow:** Git, Composer, npm, VS Code, CI/CD, Docker  
-
----
-
 ###  What Drives Me
 
 > Crafting **fast, scalable, and intelligent** applications that make technology feel seamless.  
