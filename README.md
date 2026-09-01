@@ -16,14 +16,6 @@
   />
 </p>
 
----
-###  What Drives Me
-
-> Crafting **fast, scalable, and intelligent** applications that make technology feel seamless.  
-> I love merging AI logic with everyday systems to enhance productivity and decision-making.
-
----
-
 ### Languages and Tools
 
 <p align="center">
