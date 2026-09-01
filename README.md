@@ -1,11 +1,22 @@
 <h1 align="center"> Hi, I'm Engineer bAtasi!</h1>
 <h3 align="center">Full-Stack Engineer | AI Integrator | Automation Engineer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=solohbatasi&color=blue)
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=solohbatasi&amp;color=blue"
+    alt="Profile Views"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2600&amp;pause=1000&amp;color=39D353&amp;background=0D1117&amp;center=false&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=760&amp;height=70&amp;lines=solohbatasi%40github%3A~%24%20whoami;%3E%20Full-Stack%20Software%20Engineer;solohbatasi%40github%3A~%24%20specialties;%3E%20AI%20Integrator%20%7C%20Automation%20Engineer;solohbatasi%40github%3A~%24%20about;%3E%20Building%20intelligent%2C%20high-performance%20systems.;solohbatasi%40github%3A~%24%20focus;%3E%20AI%20%E2%80%A2%20Automation%20%E2%80%A2%20Modern%20Web%20Technologies"
+    width="98%"
+    alt="Engineer bAtasi — Full-Stack Engineer, AI Integrator and Automation Engineer"
+  />
+</p>
+
 ---
-
-
-I’m a **full-stack software engineer** passionate about building **intelligent, high-performance systems** that combine **AI, automation, and modern web technologies**.
 
 ###  Core Specialties
 
