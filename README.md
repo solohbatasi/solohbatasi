@@ -93,9 +93,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/solomon-batasi-27a926265)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/solohbatasi)
-
----
-
-###  Philosophy
-> “Engineering intelligent solutions that connect people, data, and systems seamlessly and securely.”
-
