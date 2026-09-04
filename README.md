@@ -115,22 +115,6 @@
 ### Badges Cabinet
 
 <p align="left">
-  <img src="./achievements/data-fundamentals.png"
-       width="90"
-       height="90"
-       alt="Data Fundamentals"
-       title="Data Fundamentals" />&nbsp;&nbsp;
-
-  <img src="./achievements/networking-academy-learn-a-thon-2025.png"
-       width="90"
-       height="90"
-       alt="Networking Academy Learn-A-Thon 2025"
-       title="Networking Academy Learn-A-Thon 2025" />
-</p>
-
-### Badges Cabinet
-
-<p align="left">
   <img src="./achievements/data-fundamentals.png" width="90" height="90" alt="Data Fundamentals" />&nbsp;&nbsp;
   <img src="./achievements/networking-academy-learn-a-thon-2025.png" width="90" height="90" alt="Networking Academy Learn-A-Thon 2025" />
 </p>
