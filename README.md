@@ -84,9 +84,14 @@
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###  Achievements
+### GitHub Trophy Cabinet
 
-[![](https://github-profile-trophy.vercel.app/?username=solohbatasi&theme=onedark)](https://github.com/solohbatasi/github-profile-trophy)
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=solohbatasi&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+    alt="Engineer bAtasi GitHub Trophies"
+  />
+</p>
 ---
 
 ###  Connect with Me
