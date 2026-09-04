@@ -95,7 +95,7 @@
 
 ### Badges Cabinet
 
-<p align="center">
+<p >
   <img src="./achievements/data-fundamentals.png"
        width="90"
        height="90"
@@ -108,12 +108,6 @@
        height="90"
        alt="" />
 
-  &nbsp;&nbsp;
-
-  <img src="./achievements/pull-shark.png"
-       width="90"
-       height="90"
-       alt="Pull Shark" />
 </p>
 
  
