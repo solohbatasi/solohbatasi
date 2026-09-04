@@ -93,6 +93,31 @@
   />
 </p>
 
+### Badges Cabinet
+
+<p align="center">
+  <img src="./achievements/data-fundamentals.png"
+       width="90"
+       height="90"
+       alt="" />
+
+  &nbsp;&nbsp;
+
+  <img src="./achievements/networking-academy-learn-a-thon-2025.png"
+       width="90"
+       height="90"
+       alt="" />
+
+  &nbsp;&nbsp;
+
+  <img src="./achievements/pull-shark.png"
+       width="90"
+       height="90"
+       alt="Pull Shark" />
+</p>
+
+ 
+
 ###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/solomon-batasi-27a926265)
