@@ -87,10 +87,49 @@
 ### GitHub Trophy Cabinet
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=solohbatasi&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
-    alt=""
-  />
+
+  <a href="https://github.com/solohbatasi?tab=achievements">
+    <img
+      src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
+      width="100"
+      height="100"
+      alt="YOLO"
+      title="YOLO"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/solohbatasi?tab=achievements">
+    <img
+      src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
+      width="100"
+      height="100"
+      alt="Quickdraw"
+      title="Quickdraw"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/solohbatasi?tab=achievements">
+    <img
+      src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
+      width="100"
+      height="100"
+      alt="Pull Shark"
+      title="Pull Shark ×2"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+  <b>YOLO</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Quickdraw</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Pull Shark ×2</b>
 </p>
 
 ### Badges Cabinet
