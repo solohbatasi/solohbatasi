@@ -1,5 +1,4 @@
 <h1 align="center"> Hi, I'm Engineer bAtasi!</h1>
-<h3 align="center">Full-Stack Engineer | AI Integrator | Automation Engineer</h3>
 
 <p align="center">
   <img
