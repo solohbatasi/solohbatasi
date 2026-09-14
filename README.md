@@ -83,34 +83,6 @@
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### GitHub Trophy Cabinet
-
-<p align="left">
-  <a href="https://github.com/solohbatasi?tab=achievements">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
-         width="90"
-         height="90"
-         alt="YOLO"
-         title="YOLO" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://github.com/solohbatasi?tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"
-         width="90"
-         height="90"
-         alt="Quickdraw"
-         title="Quickdraw" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://github.com/solohbatasi?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
-         width="90"
-         height="90"
-         alt="Pull Shark"
-         title="Pull Shark ×2" />
-  </a>
-</p>
-
 ### Badges Cabinet
 
 <p align="left">
