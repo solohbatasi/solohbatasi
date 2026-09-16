@@ -90,9 +90,4 @@
   <img src="./achievements/networking-academy-learn-a-thon-2025.png" width="90" height="90" alt="Networking Academy Learn-A-Thon 2025" />
 </p>
 
- 
 
-###  Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/solomon-batasi-27a926265)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/solohbatasi)
