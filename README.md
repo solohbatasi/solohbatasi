@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=batasi&amp;color=blue"
+    src="https://komarev.com/ghpvc/?username=solohbatasi&amp;color=blue"
     alt="Profile Views"
   />
 </p>
