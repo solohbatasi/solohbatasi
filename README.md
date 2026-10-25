@@ -1,9 +1,4 @@
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=solohbatasi&amp;color=blue"
-    alt="Profile Views"
-  />
-</p>
+
 
 <p align="center">
   <img
