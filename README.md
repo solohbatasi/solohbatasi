@@ -76,7 +76,7 @@
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Badges Cabinet
+### Badges Cabinett
 
 <p align="left">
   <img src="./achievements/data-fundamentals.png" width="90" height="90" alt="Data Fundamentals" />&nbsp;&nbsp;
